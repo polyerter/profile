@@ -35,4 +35,4 @@ I'm a backend engineer with 10+ years of experience in building scalable systems
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/vyacheslav-likhachev-257b35b5/)
+- [LinkedIn](https://www.linkedin.com/in/vyacheslav-likhachev-257b35b5/)
